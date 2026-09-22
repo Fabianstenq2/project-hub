@@ -34,6 +34,27 @@ export const projects: Project[] = [
     addedAt: "2026-08-20",
   },
   {
+    id: "internet-empire",
+    name: "Internet Empire",
+    description:
+      "Server-authoritative idle tycoon. Progress lives on the server, not in localStorage. Enter the network.",
+    url: "https://internet-empire-lac.vercel.app/",
+    tags: ["Game", "Idle", "Tycoon"],
+    featured: true,
+    addedAt: "2026-09-20",
+  },
+  {
+    id: "task-manager",
+    name: "Task Manager",
+    description:
+      "Android process list + End process. Shows RAM, lists apps, and lets you end background processes. Download the APK.",
+    url: "https://task-manager-download.vercel.app/",
+    githubUrl: "https://github.com/TTFabianstenq/task-manager-app",
+    tags: ["Android", "Tool", "Utility"],
+    featured: true,
+    addedAt: "2026-09-18",
+  },
+  {
     id: "tung-tung-sahere-totem",
     name: "Tung Tung Sahere Totem",
     description:
